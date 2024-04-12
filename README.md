@@ -1,5 +1,5 @@
 [Silver Ⅳ]BJ1966-백준
-문제 링크 : [https://www.acmicpc.net/problem/9012](https://www.acmicpc.net/problem/1966)
+문제 링크 : [https://www.acmicpc.net/problem/1966]
 
 성능 요약 : 메모리 1116KB, 시간 0ms
 
