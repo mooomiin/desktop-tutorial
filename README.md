@@ -1,9 +1,11 @@
-[Silver Ⅳ]BJ1966-백준
+[Silver III]BJ1966-프린터 큐
 문제 링크 : [https://www.acmicpc.net/problem/1966]
 
-성능 요약 : 메모리 1116KB, 시간 0ms
 
+메모리: 1116 KB, 시간: 0 ms
 
+분류
+자료 구조, 구현, 큐, 시뮬레이션
 
 
 ## 문제
