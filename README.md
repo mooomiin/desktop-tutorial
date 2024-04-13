@@ -1,5 +1,5 @@
 ### [Bronze I]BJ9093-단어 뒤집기
-문제 링크 : [https://www.acmicpc.net/problem/9093]
+문제 링크 : https://www.acmicpc.net/problem/9093
 
 
 메모리: 1116 KB, 시간: 48 ms
