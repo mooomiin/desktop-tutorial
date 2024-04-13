@@ -20,7 +20,7 @@ int main(void)
 		// '\n'이 올때까지 문자 읽어오기
 		fgets(leng_str, 1000, stdin);
 
-		// 문서 개수만큼 중요도를 반복해서 값 입력 받기
+		// 문장 길이만큼을 반복해서 값 입력 받기
 		// 문자열 끝에 \n이 들어가므로 -1을 해준다.
 		for (int j = 0; j < strlen(leng_str) - 1; j++) {
 			// 띄어쓰기가 아닐 경우 max_word에 문자 저장
