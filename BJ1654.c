@@ -31,10 +31,10 @@ int main(void)
 	} // End of for()
 
 	long long int min = 1;				// 최소값 정의 및 초기화
-	long long int max = lan_max;		// 최대값 정의 및 초기화
+	long long int max = lan_max;			// 최대값 정의 및 초기화
 	long long int mid = 0;				// 중앙값 정의 및 초기화
 	long long int result = 0;			// 결과값 정의 및 초기화
-	int cnt = 0;						// 필요한 개수 정의 및 초기화
+	int cnt = 0;					// 필요한 개수 정의 및 초기화
 
 	// 최소값이 최대값보다 커질때까지 반복
 	while (min <= max) {
