@@ -22,7 +22,8 @@
 
 첫째 줄에 N개를 만들 수 있는 랜선의 최대 길이를 센티미터 단위의 정수로 출력한다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/bed6270d-e03d-44f8-9b69-3ce445db9f54/cd98828d-4e15-4048-ae44-abb277154835/Untitled.png)
+![image](https://github.com/mooomiin/Moo_Mas/assets/28658500/1c578713-b03a-4fcb-a086-e4fc2683ebc6)
+
 
 ## 힌트
 
