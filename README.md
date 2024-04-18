@@ -1,10 +1,10 @@
-[Level III]프로그래머스 입국심
+## [Level III]프로그래머스 입국심
 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/43238
 
 ![image](https://github.com/mooomiin/Moo_Mas/assets/28658500/1f13cf04-9b9c-472f-a7dd-d7bfc7e49f9c)
 
 
-이분탐색
+## 분류 : 이분탐색
 
 
 
