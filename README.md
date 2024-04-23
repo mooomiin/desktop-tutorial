@@ -1,4 +1,4 @@
-## [Silver Ⅱ]BJ2667-단지번호붙이기
+## [Silver Ⅰ]BJ2667-단지번호붙이기
 문제 링크 : https://www.acmicpc.net/problem/2667
 
 ## 성능 요약
