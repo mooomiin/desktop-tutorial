@@ -1,4 +1,4 @@
-## [Silver Ⅰ]BJ1012-유기농 배추
+## [Silver Ⅱ]BJ1012-유기농 배추
 문제 링크 : https://www.acmicpc.net/problem/1012
 
 ## 성능 요약
