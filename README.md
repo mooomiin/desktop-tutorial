@@ -1,4 +1,4 @@
-## [Silver Ⅰ]BJ12845-모두의 마블
+## [Silver Ⅲ]BJ12845-모두의 마블
 문제 링크 : https://www.acmicpc.net/problem/12845
 
 ## 성능 요약
