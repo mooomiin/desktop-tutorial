@@ -1,4 +1,4 @@
-[Silver Ⅳ]BJ11399-ATM
+## [Silver Ⅳ]BJ11399-ATM
 문제 링크 : https://www.acmicpc.net/problem/11399
 
 ## 성능 요약
