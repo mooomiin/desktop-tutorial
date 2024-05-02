@@ -1,8 +1,8 @@
-## [Silver Ⅲ]BJ11047-모두의 마블
+## [Silver Ⅳ]BJ11047-동전0
 문제 링크 : https://www.acmicpc.net/problem/11047
 
 ## 성능 요약
-메모리: 1232 KB, 시간: 0 ms
+메모리: 1112 KB, 시간: 0 ms
 
 ## 분류
 그리디 알고리즘
