@@ -1,4 +1,4 @@
-## [Silver Ⅳ]BJ2875-대회 or 인턴
+## [Bronze Ⅲ]BJ2875-대회 or 인턴
 문제 링크 : https://www.acmicpc.net/problem/2875
 
 ## 성능 요약
