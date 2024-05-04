@@ -1,5 +1,21 @@
-# Welcome to GitHub Desktop!
+## [SILVER Ⅳ]BJ10610-30
+문제 링크 : https://www.acmicpc.net/problem/10610
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## 성능 요약
+메모리: 1208 KB, 시간: 12 ms
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 분류
+그리디 알고리즘
+
+## 문제
+어느 날, 미르코는 우연히 길거리에서 양수 N을 보았다. 미르코는 30이란 수를 존경하기 때문에, 그는 길거리에서 찾은 수에 포함된 숫자들을 섞어 30의 배수가 되는 가장 큰 수를 만들고 싶어한다.
+
+미르코를 도와 그가 만들고 싶어하는 수를 계산하는 프로그램을 작성하라.
+
+## 입력
+N을 입력받는다. N는 최대 105개의 숫자로 구성되어 있으며, 0으로 시작하지 않는다.
+
+## 출력
+만들 수 있는 팀의 최대 개수을 출력하면 된다.
+
+![image](https://github.com/mooomiin/Moo_Mas/assets/28658500/bb97885f-1c10-4801-bc93-28ea50a05fbc)
